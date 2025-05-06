@@ -1,0 +1,51 @@
+[
+      {
+        "id": 1,
+        "title": "Smartphone X Pro",
+        "price": 799.99,
+        "description": "Último modelo con cámara de 108MP",
+        "image": "https://f.media-amazon.com/images/I/61qvRagAn9L._AC_UY218_.jpg",
+         "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "title": "Laptop Elite",
+        "price": 1299.99,
+        "description": "16GB RAM, 1TB SSD, Intel i7",
+        "image": "https://f.media-amazon.com/images/I/718P0vmKBbL._AC_UY218_.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 3,
+        "title": "JBL charge",
+        "price": 89.99,
+        "description": "Parlante portatil con bateria de larga duracion y excelente sonido",
+        "image": "https://f.media-amazon.com/images/I/61qMO3TS2RL._AC_UY218_.jpg",
+         "category": "Electrnics"
+      },
+      {
+        "id": 4,
+        "title": "Drone 1080p",
+        "price": 42.49,
+        "description": "Drone con camara 1080p para adultos y niños",
+        "image": "https://f.media-amazon.com/images/I/71sfGvhRPCL._AC_UY218_.jpg",
+         "category": "Electrnics"
+      },
+      {
+        "id": 5,
+        "title": "Earbuds",
+        "price": 39.95,
+        "description": "Audifonos inalambricos JBL cancelacion de ruido",
+        "image": "https://f.media-amazon.com/images/I/41+1Csr1pSL._AC_UY218_.jpg",
+         "category": "Electronics"
+      }
+      ,
+      {
+        "id": 6,
+        "title": "Tp Link",
+        "price": 39.95,
+        "description": "Repetidor de señal de largo alcance",
+        "image": "https://f.media-amazon.com/images/I/41Y56RIq57L._AC._SR360,460.jpg",
+         "category": "Electronics"
+      }
+  ]

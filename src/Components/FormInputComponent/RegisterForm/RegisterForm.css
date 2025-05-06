@@ -1,0 +1,46 @@
+.register-form-container {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-form-container h2 {
+    text-align: center;
+    color: #2b2d42;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+  }
+  
+  .register-form-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+  
+  .register-form-container button[type="submit"] {
+    background-color: #4361ee;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 0.5rem;
+  }
+  
+  .register-form-container button[type="submit"]:hover {
+    background-color: #3a56d4;
+  }
+  
+  /* Responsive */
+  @media (max-width: 600px) {
+    .register-form-container {
+      margin: 1rem;
+      padding: 1.5rem;
+    }
+  }
