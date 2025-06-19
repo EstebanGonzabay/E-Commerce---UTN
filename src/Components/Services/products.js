@@ -12,7 +12,7 @@ export const getProducts = async() =>{
   }
 }
 
-export const getProductById = async () =>{
-   const products = await getProducts()
-   products.find(product => product.id == product_id)
-}
+export const getProductById = async (product_id) => {
+  const products = await getProducts();
+  return products.find(product => product.id === product_id);
+};
