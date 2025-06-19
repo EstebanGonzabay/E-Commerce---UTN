@@ -28,13 +28,13 @@ const Header = () => {
                 to={'/login'}
                 className = {isActiveCallback}
             >
-                Login
+                Ingreso
             </NavLink>
             <NavLink
               to={'/register'}
               className = {isActiveCallback}
             >
-              SignUp
+              Registro
             </NavLink>
           </nav>
         </div>
