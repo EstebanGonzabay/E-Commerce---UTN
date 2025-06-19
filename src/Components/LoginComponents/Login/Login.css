@@ -1,4 +1,3 @@
-/* Variables de color */
 :root {
     --primary-color: #4361ee;
     --primary-light: #f0f4ff;
@@ -7,8 +6,7 @@
     --gray-light: #e5e7eb;
     --white: #ffffff;
   }
-  
-  /* Estilos base */
+
   .login-container {
     display: flex;
     justify-content: center;

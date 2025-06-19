@@ -4,6 +4,7 @@ import PasswordInput from '../PasswordInput/PasswordInput';
 import './RegisterForm.css'
 
 
+
 const RegisterForm = () => {
     return (
       <div className="register-form-container">
