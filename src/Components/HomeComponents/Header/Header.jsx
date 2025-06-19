@@ -34,7 +34,7 @@ const Header = () => {
               to={'/register'}
               className = {isActiveCallback}
             >
-              Registro
+              SignUp
             </NavLink>
           </nav>
         </div>
