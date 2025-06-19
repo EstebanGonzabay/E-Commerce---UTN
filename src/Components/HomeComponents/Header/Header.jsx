@@ -14,7 +14,7 @@ const Header = () => {
             <Link to ='/' className='logo-link'>
               
               <img 
-                src="/public/bb.png" 
+                src="/bb.png" 
                 alt="Juan Diego's Store Logo" 
                 className= "logo-image"
                 style = {{maxWidth: '180px'}}
