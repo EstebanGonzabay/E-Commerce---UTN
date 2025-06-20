@@ -1,5 +1,6 @@
 import { collection, getDocs } from 'firebase/firestore';
-import database from '../config/firebase';
+import database from '../../config/firebase';
+
 
 // Obtener todos los productos desde Firebase Firestore
 export const getProducts = async () => {

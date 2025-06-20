@@ -12,9 +12,10 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
-export default database;
+const database = getFirestore(app)
+
+export default database
 
 // // Import the functions you need from the SDKs you need
 // import { initializeApp } from "firebase/app";
