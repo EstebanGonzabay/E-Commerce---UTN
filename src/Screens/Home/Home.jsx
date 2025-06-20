@@ -6,8 +6,7 @@ const Home = () => {
     <div>
       <Header/>
       {}
-      <ProductList/>      
-          
+      <ProductList/>       
     </div>
   )
 }
